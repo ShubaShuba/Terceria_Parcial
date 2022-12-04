@@ -11,4 +11,4 @@
 
 <h4> Braulio Yahir Gaitan Vargas 3°D <h4>
 
-<h5> Apuntes Realizados en clase 2da Parcial <h5>
+<h5> Apuntes Realizados en clase 3da Parcial Sobre elixir <h5>
